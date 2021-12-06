@@ -3,11 +3,9 @@ package main
 import (
 	"fmt"
 	"math"
-	"time"
 )
 
 func main() {
-	fmt.Println(time.Now())
 	fmt.Println("计算圆的面积....")
 
 	var r float64
