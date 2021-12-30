@@ -42,6 +42,8 @@ Week03:
 		1.第一个作业题代码目录
     		- homework/Week03/fatRate
 
+			作业地址: https://github.com/zhoudelong/geeklearngo/tree/main/homework/Week03/fatRate
+
 			执行:
 			go run .\main.go --Name zhoudelong --Sex "男" --Height 1.75 --Weight 73 --Age 27 
 
@@ -55,6 +57,10 @@ Week03:
 
 		2.第二个作业题代码目录
 			- homework/Week03/fatRateTest
+
+			作业地址: 
+					bmi: https://github.com/zhoudelong/geeklearngo/tree/main/homework/Week03/fatRateTest/bmi
+					fatrate:  https://github.com/zhoudelong/geeklearngo/tree/main/homework/Week03/fatRateTest/bfa
 			
 			go run bmi_test.go
 
