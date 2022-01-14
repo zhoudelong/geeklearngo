@@ -1,7 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"Week04/test_cases"
+	"fmt"
+)
 
 func main() {
-	fmt.Println("2022-01-14, 事后提交....")
+	test_cases.RunCase1()
+	fmt.Println()
+	test_cases.RunCase2()
+	fmt.Println()
+	test_cases.RunCase3()
+
 }
